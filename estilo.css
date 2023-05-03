@@ -1,0 +1,33 @@
+body {
+    background-color: black;
+    font-family: monospace;
+    color: white;
+}
+
+.estilo-parrafo1 {
+    font-family: Georgia;
+    color: red;
+    font-size: 20px;
+}
+
+.estilo-parrafo2 {
+    font-family: 'Gill Sans';
+    color: blue;
+    font-size: 19px;
+}
+
+.estilo-parrafo3 {
+    font-family: Georgia;
+    color: mediumslateblue;
+    font-size: 15px;
+}
+
+#estilo-parrafo4 {
+    font-family: sans-serif;
+    color: brown;
+    font-size: 12px ;
+}
+
+img {
+    width: 330px;
+}
